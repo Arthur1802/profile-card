@@ -5,7 +5,7 @@ var text = document.querySelectorAll(".text")
 function hoverOn(i)
 {
     logos[i].style.left = '35%'
-    titles[i].style.left = '36.5%'
+    titles[i].style.left = '37.5%'
     titles[i].style.opacity = '1'
 }
 
